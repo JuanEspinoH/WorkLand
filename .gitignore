@@ -4,6 +4,8 @@
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
 !.github
+!.node-version
+!.nvmrc
 php_errorlog
 .log
 
